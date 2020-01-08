@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ An\ example\ of\ using\ encapsulation\ in\ a\ class\r\n\r\n\ @author\ Tal\ Dickman\r\n\ @version\ 1/18/20\r\n
+comment1.params=
+comment1.target=Student()
+comment2.params=name\ age
+comment2.target=Student(java.lang.String,\ int)
+numComments=3
